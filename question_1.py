@@ -1,9 +1,9 @@
 def calculation(a, b):
-    addition = a + b
-    subtraction = a - b
+    addition = a ....... b
+    subtraction = a ...... b
     # return multiple values separated by comma
-    return addition, subtraction
+    return ..........................
 
 # get result in tuple format
-res = calculation(40, 10)
+res = ........................ # call function calculation()
 print(res)
