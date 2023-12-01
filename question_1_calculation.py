@@ -3,7 +3,7 @@
 # Try to do corrections on online-python.com OR IDLE PYTHON before you commit the changes.
 
 # The output of the program is as follows:
-# (150, 6)
+# (150, 6.0)
 
 def calculation(a, b):
     multiplication = a + b
