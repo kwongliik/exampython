@@ -5,5 +5,5 @@ def calculation(a, b):
     return ..........................
 
 # get result in tuple format
-res = ........................ # call function calculation() for 30 and 5
-print(res)
+result = ........................ # call function calculation() for 30 and 5
+print(result)
