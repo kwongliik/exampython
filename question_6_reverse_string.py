@@ -7,7 +7,7 @@ def string_reverse(str1):
     rstr1 = ''
     
     # Calculate the length of the input string 'str1'
-    index = .......... # Use a built-in function to calculate the length of a string
+    index = .......... # Use built-in function to calculate the 'str1' length as argument
     
     # Execute a while loop until 'index' becomes 0
     ........ index > 0:
