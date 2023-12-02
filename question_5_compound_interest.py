@@ -9,7 +9,7 @@
 
 # compound_interest() is a function that will return the result of calculation
 def compound_interest(principal, rate, time, n):
-    result = principal * (.....(1 + ..... / (.......), ........)) # Use built-in function "pow()" to complete the formula
+    result = principal * (.....(1 + ..... / (100 * .....), ........)) # Use built-in function "pow()" to complete the formula
     return result 
 
 def calculate_and_print_interest():
