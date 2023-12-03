@@ -1,6 +1,6 @@
 # test_calculation.py
 
-from question_1 import calculation
+from question_1_calculation import calculation
 
 def test_calculation():
     # Test case 1
