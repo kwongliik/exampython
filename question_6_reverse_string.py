@@ -21,4 +21,4 @@ def string_reverse(str1):
     return rstr1
 
 # Print the result of calling the string_reverse() function with the input string '1234abcd'
-print(string_reverse('12345abcde')) # The output is "edcba54321"
+print("String reverse for \'12345abcde\' is", string_reverse('12345abcde')) # The output is "edcba54321"
