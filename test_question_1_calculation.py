@@ -7,6 +7,10 @@ def test_calculation():
     result = calculation(40, 10)
     assert result == (30, 400, 4), "Test case 1 failed"
 
-    # Test case 2 (add more as needed)
+    # Test case 2
     result = calculation(20, 5)
     assert result == (15, 100, 4), "Test case 2 failed"
+
+    # Test case 3
+    result = calculation(50, 5)
+    assert result == (45, 250, 10), "Test case 3 failed"
