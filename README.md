@@ -1,5 +1,4 @@
 # Python Practical Test
-<h3>Exam for Python Programming</h3>
 <br><b>Formula for calculating volume of cone:</b>
 <br><img width="240" alt="Screenshot 2023-12-03 at 7 11 27 PM" src="https://github.com/kwongliik/exampython/assets/46083661/8ac26fb5-eb9c-4446-92ea-2a0746d5fa69">
 <br>
